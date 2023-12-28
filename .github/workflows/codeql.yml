@@ -1,0 +1,17 @@
+# ******** NOTE ********
+# phyton ile yapılmıştır 
+print("FSMCYBERTEAM")
+print("FSMCYBERTEAM TOOLUNA HOŞGELDİN..")
+print("Discord:ronaldoizm_editz")
+print("yt:@FSMKURUCUSU")
+print("FSM CYBER TEAM DDOS")
+print("DDOS ATMAK İÇİN İPYİ YAZINIZ...")
+DDOS = input("KAÇ DDOS ATILACANI GİRİNİZ=")
+print("DDOS ATILIYOR...|"+DDOS)
+İP = input("DDOS İÇİN İP'Yİ GİRİNİZ=")
+print("DDOS BAŞLATILIYOR|"+İP)
+print("VERDİĞİN İP="+İP)
+İSİM = input("DDOS ATACAĞIN KİŞİNİN İSMİNİ GİRİNİZ=(ZORUNLU DEĞİL)")
+print("ATILACAK DDOS|"+ADDOS)
+print("İP|"+İP)
+print("DDOS' ATILACAK KİŞİ"+İSİM)
